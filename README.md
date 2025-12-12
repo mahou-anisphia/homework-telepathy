@@ -1,24 +1,2 @@
-# project-1
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+> My first-ever website built with command-line tools (npm). A simple Vue 3 admin interface for tracking homework, kept here as a memory of my learning journey. This repository is now archived.
